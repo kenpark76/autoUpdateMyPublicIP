@@ -8,7 +8,7 @@
 
 2. 通过 crontab 定时运行此脚本。
 
-例如每小时执行一起需要在 crontab -e 里添加如下自动运行脚本：0 * * * * /autoupdateip.sh
+   例如每小时执行一次需要在 crontab -e 里添加如下自动运行脚本：0 * * * * /autoupdateip.sh
 
 3. Github 上即可同步查询到自家路由器分配的公网IP地址。
 
